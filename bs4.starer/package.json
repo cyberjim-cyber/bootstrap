@@ -1,0 +1,11 @@
+{
+  "name": "bs4.starer",
+  "version": "1.0.0",
+  "description": "bootstrap 4 starer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanjim",
+  "license": "MIT"
+}
